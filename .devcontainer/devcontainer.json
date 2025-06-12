@@ -1,0 +1,9 @@
+{
+    "name": "GCNAM PHP API",
+    "image": "mcr.microsoft.com/devcontainers/php",
+    "forwardPorts": [80],
+    "features": {
+      "ghcr.io/devcontainers/features/docker-in-docker:1": {}
+    }
+  }
+  
